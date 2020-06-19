@@ -1,4 +1,6 @@
-<h1 align="center">Ecoleta</h1>
+<h1 align="center">
+  <img src="public/assets/logo.svg">
+</h1>
 
 <p align="center">Projeto desenvolvido na semana Next Level Week da Rocketseat.</p>
 
@@ -10,15 +12,18 @@
   </a>
 </p>
 
-## Tecnologias utilizadas
+## 🔖 Sobre
+O projeto **Ecoleta** é um marketplace de coleta de resíduos.
+
+## 🚀 Tecnologias utilizadas
 
 Projeto desenvolvido com as seguintes tecnologias
 
-- `HTML`
-- `CSS`
-- `JavaScript`
-- `Express`
-- `Nodejs` 
-- `NPM`
-- `Nunjucks`
-- `Sqlite3`
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodejs](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [Sqlite](https://www.sqlite.org/index.html)
