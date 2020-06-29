@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Ecoleta" src="public/assets/ecoleta.png" width="100%">
+</p>
+
 ## 🔖 Sobre
 O projeto **Ecoleta** é um marketplace de coleta de resíduos.
 
